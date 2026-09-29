@@ -2,7 +2,7 @@ package collection;
 
 import java.util.ArrayList;
 
-public class arrr {
+public class arrrrr {
 	static void area(ArrayList l3,ArrayList l4) {
 		for(int i=0;i<l3.size();i++) {
 			int h =(int)l3.get(i);
