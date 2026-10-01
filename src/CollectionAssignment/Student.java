@@ -7,7 +7,8 @@ public class Student {
 	String std_name;
 	int std_no;
 	char std_sec;
-	public Student(String std_name, int std_no, char std_sec) {
+	public Student
+	(String std_name, int std_no, char std_sec) {
 		
 		this.std_name = std_name;
 		this.std_no = std_no;
