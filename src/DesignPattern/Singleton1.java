@@ -12,14 +12,18 @@ class Icici_Bank_01{
 		return a1;
 		
 	}
+	public int getBal() {
+		return bal;
+	}
+	
 	
 }
 public class Singleton1 {
 	public static void main(String[] args) {
 		Icici_Bank_01 Bang_branch=Icici_Bank_01.getInstance();
-		System.out.println(Bang_branch);
+		System.out.println(Bang_branch.getBal());
 		Icici_Bank_01 Mang_branch=Icici_Bank_01.getInstance();
-		System.out.println(Mang_branch);
+		System.out.println(Mang_branch.getBal());
 	}
 
 }
