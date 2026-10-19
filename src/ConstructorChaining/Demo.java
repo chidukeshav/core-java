@@ -1,4 +1,4 @@
-package CollectionChaining;
+package ConstructorChaining;
 
 public class Demo {
 	public Demo() {

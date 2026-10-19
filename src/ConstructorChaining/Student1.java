@@ -1,4 +1,4 @@
-package CollectionChaining;
+package ConstructorChaining;
 
 
 //betweentheclass 1

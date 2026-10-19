@@ -1,4 +1,4 @@
-package CollectionChaining;
+package ConstructorChaining;
 // this
 public class Sam {
 	public Sam() {

@@ -1,4 +1,4 @@
-package CollectionChaining;
+package ConstructorChaining;
 
 //Withinclass 3
 
